@@ -2,8 +2,6 @@ package com.codility.lesson3_1;
 
 import sun.jvm.hotspot.utilities.Assert;
 
-import java.util.Arrays;
-
 public class Lesson3_1 {
 
     enum Test {
